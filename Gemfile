@@ -5,6 +5,8 @@ source 'https://rubygems.org'
 gem 'rails', '4.2.3'
 # Boostrap for CSS/Styles of HTML pages
 gem 'bootstrap-sass'
+# Hash functions for passwords
+gem 'bcrypt',               '3.1.7'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 # Use SCSS for stylesheets
